@@ -1,12 +1,20 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Get Location Webpage
+```
+This is a simple website to fetch real time location of a user or to search for a specific location
+```
+## Tech Stack 
+```
+1)Forntend: HTML, ReactJS
+2)Funcitonality: JavaScript, Google Maps API
+3)Styling: CSS
+```
+## How to run:
+```
+1)Clone the repo
+2)Install required packages and dependencies
+3)Get API key from GOOGLE MAPS APIs and update in index.html
+4)Run command "npm run dev"
+```
+```
+NOTE: Make sure your key is activated  
+```
